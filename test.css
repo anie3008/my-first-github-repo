@@ -1,0 +1,95 @@
+*{margin: 0px;
+    padding: 0px;
+}
+
+
+.logo-dark{
+    width: 150px; height: 30px;
+}
+.banner-container{
+display: flex;
+justify-content: space-around;
+padding: 25 px; 
+background-color: blanchedalmond;
+color: brown;
+}
+
+.menue{
+    list-style: none;
+    display: flex;}
+.item{
+    margin-right:17px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.body-container{
+   display: flex;
+   justify-content: center;
+   padding: 10px;
+   /*. margin-top: 40px;.*/
+   align-items: center;
+   height: 100vh;
+   background-image: url("./images/background.png"), linear-gradient(45deg, rgb(227, 146, 146), rgb(90, 85, 85));
+   color: #fdfefc;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   flex-direction: row-reverse;
+}
+.text{
+   
+}
+.text1{
+    font-size: 55px;
+    font-weight: bold;
+}
+.text2{
+    font-size: 18px;
+    margin-top: 10px;
+}
+.btn{
+    font-size: 20px;
+    
+    color: rgba(236, 157, 157, 0.627);
+    background-color:rgba(17, 16, 16, 0.632);
+    
+    margin-top: 20px;
+    padding: 13px;
+    
+    border-radius: 5px;
+    }
+
+    .image{
+        width: 300px;
+}
+
+
+
+.about-us-container{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.about-us{text-align: center;
+    padding-top: 20px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.text-container{
+    justify-content: space-around;
+    align-content: center;
+}
+.dscrptn{
+    font-size: 30px;
+    margin-top: 15px;
+}
+.title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.abt-us-img{
+width: 100px;}
+
+
+   
