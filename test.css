@@ -68,12 +68,12 @@ color: brown;
 
 .about-us-container{
     display: flex;
-justify-content: center;
+justify-content: space-between;
 align-items: center;
 }
 .about-us{text-align: center;
     padding-top: 20px;
-    font-size: 35px;
+    font-size: 55px;
     font-weight: bold;
 }
 .text-container{
@@ -81,15 +81,15 @@ align-items: center;
     align-content: center;
 }
 .dscrptn{
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 15px;
 }
 .title{
-    font-size: 50px;
+    font-size: 30px;
     font-weight: bold;
 }
 .abt-us-img{
-width: 100px;}
+width: 300px;}
 
 
    
